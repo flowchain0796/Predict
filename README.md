@@ -1,8 +1,8 @@
-Add this PRED token as manually into your wallet on MANTLE (MNT) Chain
+Add this PRED token as manually into your wallet on FLOW Chain
 
-Contract Address = 0x3e57Bf94B989694b9EbF963d93f5311A1C236fca
+Contract Address = 0x2ed1e0e3c77AcE06a0ef51076a57EddE6Ce3Ec8A
 
-Verify this Contract -> [Verify PRED](https://explorer.sepolia.mantle.xyz/address/0x3e57Bf94B989694b9EbF963d93f5311A1C236fca)
+Verify this Contract -> [Verify PRED](https://evm-testnet.flowscan.io/token/0x2ed1e0e3c77AcE06a0ef51076a57EddE6Ce3Ec8A)
 
 
 -------------
