@@ -6,21 +6,34 @@ Verify this Contract -> [Verify PRED](https://evm-testnet.flowscan.io/token/0x2e
 
 ---------
 
-Personalized Token Creation: Effortlessly mint custom tokens to represent value, power projects, or foster community interaction.
-Live Predictions & Real-World Insights: Leverage live data to make informed decisions in prediction markets.
-Flow Chain Advantages:
-High scalability.
-Low transaction costs.
-Diverse Use Cases:
-Participate in prediction markets.
-Access real-time insights.
-Tokenize unique experiences.
-Secure & Transparent Environment: Operate within a blockchain ecosystem ensuring security and transparency.
-Versatile Applications:
-Rewards systems.
-Governance models.
-Predictive analytics.
-Empowering Users: Enable ownership, adaptability, and tools to shape the future through blockchain innovation.
+## Platform Overview on Flow Chain
+
+- **Personalized Token Creation**  
+  Effortlessly mint custom tokens to represent value, power projects, or foster community interaction.
+
+- **Live Predictions & Real-World Insights**  
+  Leverage live data to make informed decisions in prediction markets.
+
+- **Flow Chain Advantages**  
+  - High scalability  
+  - Low transaction costs  
+
+- **Diverse Use Cases**  
+  - Participate in prediction markets  
+  - Access real-time insights  
+  - Tokenize unique experiences  
+
+- **Secure & Transparent Environment**  
+  Operate within a blockchain ecosystem ensuring security and transparency.
+
+- **Versatile Applications**  
+  - Rewards systems  
+  - Governance models  
+  - Predictive analytics  
+
+- **Empowering Users**  
+  Enable ownership, adaptability, and tools to shape the future through blockchain innovation.
+
 
 -------------
 
